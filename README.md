@@ -10,8 +10,6 @@ You can find all problems at [Rosalin Website](https://rosalind.info/problems/lo
 
 ## Installation
 
-## Installation
-
 To run this project, you'll need to install the following Python libraries:
 
 - `streamlit`
